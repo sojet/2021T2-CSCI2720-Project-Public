@@ -30,12 +30,12 @@
 
 <h3>Instruction for running the project</h3>
 <ul>
-    <li>Login the AWS EC2 Instance by SSL Client: <code>ssh kinhong@23.21.161.150</code></li>
-    <li>Enter the password <code>kinhong</code></li>
+    <li>Login the AWS EC2 Instance by SSL Client: <code></code></li>
+    <li>Enter the password <code></code></li>
     <li>Open the directory <code>2021T2-CSCI2720-Project</code>: <code>cd 2021T2-CSCI2720-Project</code></li>
     <li>Open the server folder <code>server</code>: <code>cd server</code></li>
     <li>Run the web app by <code>npm start</code></li>
-    <li>Go to url <code>23.21.161.150</code> to view the web app</li>
+    <li>Go to url <code></code> to view the web app</li>
 </ur>
 
 <h4>*******Reminder*******</h4>
