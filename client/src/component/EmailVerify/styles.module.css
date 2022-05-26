@@ -1,0 +1,28 @@
+/*
+    1155125983 SO Siu Ho Aeon
+    1155127434 HO Chun Lun
+    1155127648 TSANG Ho San
+    1155128632 LAM Kin Hong
+    1155157707 CHOI Siu Hin
+*/
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.green_btn {
+    border: none;
+    outline: none;
+    padding: 12px 0;
+    background-color: #3bb19b;
+    border-radius: 20px;
+    width: 180px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}

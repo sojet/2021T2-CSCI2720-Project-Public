@@ -1,0 +1,122 @@
+/*
+    1155125983 SO Siu Ho Aeon
+    1155127434 HO Chun Lun
+    1155127648 TSANG Ho San
+    1155128632 LAM Kin Hong
+    1155157707 CHOI Siu Hin
+*/
+
+.navbar {
+    width: 100%;
+    height: 90px;
+    background-color: #3bb19b;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar h1 {
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.backImg {
+    background-image: url("nightsky.jpg");
+}
+.headerstyle {
+    background-image: url("8bitcloud.jpg");
+    color:rgb(67, 231, 253);
+    padding: 5px;
+}
+.white_btn {
+    position: absolute;
+    border: none;
+    outline: none;
+    padding: 12px 0;
+    background-color: white;
+    border-radius: 20px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    margin-right: 20px;
+    float:right;
+    top: 1%;
+    left: 91.5%;
+}
+
+.page1 {
+    background-color: rgb(138, 241, 245);
+    margin: 2em;
+    border: 5px solid rgb(130, 210, 247);
+    border-radius: 1em;
+}
+.navOutlook{
+    background-color: rgb(244, 248, 204);
+    margin: 1em;
+	padding: 0em;
+    border-radius: 1em;
+}
+
+.page2First{
+    background: rgb(156, 202, 240);
+    margin: 0px;
+    border: 5px solid rgb(96, 178, 245);
+    border-radius: 1em;
+    display: inline-block;
+    width: 33.3%;
+    vertical-align: top;
+}
+.page2Second{
+    background: rgb(191, 165, 253);
+    margin: 0px;
+    border: 5px solid rgb(218, 201, 255);
+    border-radius: 1em;
+    display: inline-block;
+    width: 33.3%;
+    vertical-align: top;
+}
+.page2Third{
+    background: rgb(113, 145, 175);
+    border: 5px solid rgb(68, 127, 179);
+    border-radius: 1em;
+    display: inline-block;
+    width: 33.3%;
+    vertical-align: top;
+}
+.smallHeadStyle{
+    background-image: url("8bitcloud-small.jpg");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(1, 36, 39);
+    margin: 1em;
+    text-decoration-color: rgb(0, 195, 255);
+    text-align: left;
+}
+
+.error_msg,
+.success_msg {
+	width: 300px;
+	padding: 15px;
+	margin: 5px 0;
+	font-size: 14px;
+	background-color: #f34646;
+	color: white;
+	border-radius: 5px;
+	text-align: center;
+}
+
+.success_msg {
+	background-color: #5cdd5c;
+}
+
+.input {
+	outline: none;
+	border: none;
+	width: 300px;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #edf5f3;
+	margin: 5px 0;
+	font-size: 14px;
+}
