@@ -1,42 +1,6 @@
 # 2021T2-CSCI2720-Project #
 <h2>2021/22 Term 2 CSCI2720 Project</h2>
-<label>Group 19 member lists:</label>
-<table>
-    <tr>
-        <th>SID</th>
-        <th>Name</th>
-    </tr>
-    <tr>
-        <td>1155128632</td>
-        <td>LAM Kin Hong</td>
-    </tr>
-    <tr>
-        <td>1155157707</td>
-        <td>CHOI Siu Hin</td>
-    </tr>
-    <tr>
-        <td>1155127434</td>
-        <td>HO Chun Lung</td>
-    </tr>
-    <tr>
-        <td>1155125983</td>
-        <td>SO Siu Ho Aeon</td>
-    </tr>
-    <tr>
-        <td>1155127648</td>
-        <td>TSANG Ho San</td>
-    </tr>
-</table>
+<p>This is a real-time weather information web application. Since this is the deployment website of the web app. So the web applicatio does not function on localhost</p>
 
-<h3>Instruction for running the project</h3>
-<ul>
-    <li>Login the AWS EC2 Instance by SSL Client: <code></code></li>
-    <li>Enter the password <code></code></li>
-    <li>Open the directory <code>2021T2-CSCI2720-Project</code>: <code>cd 2021T2-CSCI2720-Project</code></li>
-    <li>Open the server folder <code>server</code>: <code>cd server</code></li>
-    <li>Run the web app by <code>npm start</code></li>
-    <li>Go to url <code></code> to view the web app</li>
-</ur>
+<h3>Sample for the web app</h3>
 
-<h4>*******Reminder*******</h4>
-<p>Assume location entered in Location Data CRUD system for creating a new location in the web app is correct!!!</p>
